@@ -3,6 +3,7 @@
 This Jupyter Notebook serves as a tutorial on how to use the matrix completion package developed by MIT for Liberty Mutual. The notebook includes the following features:
 
 `Author:` Victor Radermecker
+
 `Professor:` Prof. Vivek Farias
 
 ## Synthetic Dataset Generator
